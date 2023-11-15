@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{const e=localStorage.getItem("preload_color"),o=document.head.querySelector("preload_color"),l=o=>{o&&(o.innerHTML=`html,body{background-color:${e};}`)};if(o)l(o);else{const e=document.createElement("style");e.className="preload_color",l(e),document.head.appendChild(e)}})()})();
