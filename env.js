@@ -1,0 +1,1 @@
+globalThis.env = {"version": "6.5.0", "browser": "chrome", "mode": "production", "env": "ext" }
