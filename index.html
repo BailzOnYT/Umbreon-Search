@@ -16,7 +16,8 @@
                 <video src="Bkg.mp4" loop autoplay muted style="background-color: rgb(255, 255, 255); object-fit: cover; z-index: 0; object-position: center center; width: 100%; height: 100%;"></video>
             </div>
         </div>
-        <iframe id="github-iframe" src=""></iframe>
+        <div id="box">
+            <iframe id="github-iframe" src=""></iframe>
         <script>
             fetch('https://api.github.com/repos/BailzOnYT/Umbreon-Search/contents/sandbox.html')
                 .then(function(response) {
@@ -27,6 +28,17 @@
                     iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
                 });
         </script>
+        </div>
+        <style>
+            #box {
+                position:absolute;
+                width:100%;
+                height:100%;
+                top:0;
+                left:0;
+                background:rgba (0,0,0,.1);
+            }
+        </style>
         <script src="sandbox.js"></script>
     </body>
 </html>
