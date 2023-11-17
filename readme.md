@@ -22,7 +22,7 @@
 <h3>Version 1.5.2</h3>
 <span>Background Changed, .defined box added</span>
 <br>
-<h3>Version 2.4.9</h3>
+<h3>Version 2.4.9 (14/11/2023)</h3>
 <span>Umbreon Search made.</span>
 <br>
 <h3>Version 2.8.3 (Current)</h3>
