@@ -6,6 +6,8 @@
 <br>
 <a href="readme.md#updates">Versions</a>
 <br>
+<a href="readme.md#locl-umbreon-search">Local Umbreon Search</a>
+<br>
 <a href="readme.md#credits">Credits</a>
 <br>
 <h2>What is Umbreon Search?</h2>
@@ -25,12 +27,14 @@
 <h3>Version 2.4.9 (14/11/2023)</h3>
 <span>Umbreon Search made.</span>
 <br>
-<h3>Version 2.8.3 (Current)</h3>
+<h3>Version 2.8.3 (17/11/2023: Current)</h3>
 <span>GitHub supported (a few problems exist e.g. Font Face cannot load)</span>
 <br>
 <h3>Version 2.8.3 (a)</h3>
-<span>Local Clear New Tab CSS and HTML modified with bug fixes (Not GitHub)</span>
+<span>Local Clear New Tab CSS and HTML modified with bug fixes (Local Version)</span>
 <br>
+<h2>Local Umbreon Search (known as "(a)" versions)</h2>
+<span>To use local Umbreon Search please read </span><a href="https://github.com/BailzOnYT/Umbreon-Search/blob/main/Downloads/setup.md">setup.md</a><span>.</span>
 <h2>Credits</h2>
 <span>Most of the resource files are provided by Clear New Tab, which you can download </span><a href="https://microsoftedge.microsoft.com/addons/detail/clear-new-tab/ifphophaconbhfmkpdlfldelkjpjmlbj">Here for Microsoft Edge</a><span> and </span><a href="https://chrome.google.com/webstore/detail/clear-new-tab/felphkbfjadmcejnibcmcncimlappdde">Here for Google Chrome</a>
 <br>
