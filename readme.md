@@ -4,9 +4,9 @@
 <br>
 <a href="readme.md#how-to-view-umbreon-search">How to view Umbreon Search</a>
 <br>
-<a href="readme.md#updates">Versions</a>
+<a href="readme.md#updates">Updates</a>
 <br>
-<a href="readme.md#locl-umbreon-search">Local Umbreon Search</a>
+<a href="readme.md#local-umbreon-search-known-as-a-versions">Local Umbreon Search (known as "(a)" versions)</a> 
 <br>
 <a href="readme.md#credits">Credits</a>
 <br>
