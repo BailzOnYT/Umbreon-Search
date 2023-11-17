@@ -4,7 +4,7 @@
 <br>
 <a href="readme.md#how-to-view-umbreon-search">How to view Umbreon Search</a>
 <br>
-<a href="readme.md#versions">Versions</a>
+<a href="readme.md#updates">Versions</a>
 <br>
 <a href="readme.md#credits">Credits</a>
 <br>
@@ -17,9 +17,7 @@
 <span>Use GitHub Pages. Just for convenience, click </span><a href="https://bailzonyt.github.io/Umbreon-Search/">Here</a><span> to view the page.</span>
 ![image](https://github.com/BailzOnYT/Umbreon-Search/assets/144522582/89bdaa59-1754-4d8c-9c62-2a757c84514d)
 <br>
-<h2>Versions</h2>
-<br>
-<h2>Updates</h1>
+<h2>Updates</h2>
 <br>
 <h3>Version 1.0.9</h3>
 <br>
@@ -31,7 +29,15 @@
 <br>
 <h3>Version 2.4.9</h3>
 <br>
-<span>Umbreon Search made (Current Version)</span>
+<span>Umbreon Search made.</span>
+<br>
+<h3>Version 2.8.3 (Current)</h3>
+<br>
+<span>GitHub supported (a few problems exist e.g. Font Face cannot load)</span>
+<br>
+<h3>Version 2.8.3 (a)</h3>
+<br>
+<span>Local Clear New Tab CSS and HTML modified with bug fixes (Not GitHub)</span>
 <br>
 <h2>Credits</h2>
 <br>
