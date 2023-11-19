@@ -4,7 +4,7 @@ These steps will help you setup your local version. (This process is for all ver
 <span>This extension is available for </span><a href="https://microsoftedge.microsoft.com/addons/detail/clear-new-tab/ifphophaconbhfmkpdlfldelkjpjmlbj">Edge</a><span> and </span><a href="https://chrome.google.com/webstore/detail/clear-new-tab/felphkbfjadmcejnibcmcncimlappdde">Chrome</a><span>.</span>
 <br>
 <h2>Step 2: Download a local version of Umbreon Search</h2>
-<span>Once you've added the Clear New Tab extension you will need to download a local version of Umbreon Search (stored as .json), these are all available </span><a href="https://github.com/BailzOnYT/Umbreon-Search/Downloads">Here</a><span>.</span>
+<span>Once you've added the Clear New Tab extension you will need to download a local version of Umbreon Search (stored as .json), these are all available </span><a href="https://github.com/BailzOnYT/Umbreon-Search/tree/main/Downloads">Here</a><span>.</span>
 <br>
 <h2>Step 3: Import Umbreon Search</h2>
 <span>Once you've downloaded a local version of Umbreon Search, you will need to import the .json file by going to </span><i>Back Up</i><span> and clicking on </span><I>Restore Back Up</i><span> and clicking on the Umbreon Search.json file to import.</span>
