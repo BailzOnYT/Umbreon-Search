@@ -10,30 +10,33 @@
                 <div class="html">
                     <div class="defined">
                         <h1>Umbreon Search</h1>
-                        <p>Version 2.4.9 (14/11/2023)</p>
-                        <span>A custom HTML and CSS search New Tab made by Bailey Sheather</span>
+                        <br>
                         <form action="https://www.bing.com/search" method="get">
-                            <input type="text" name="q" class="search-box" placeholder="Search...">
+                            <p>Version 2.9.2 (a) (11/12/2023)</p>
                             <br>
+                            <span class="divtext">A custom HTML and CSS search New Tab made by Bailey Sheather</span>
+                            <br>
+                            <input type="text" name="q" class="search-box" placeholder="Search...">
                             <input type="submit" class="button" value="Search">
                             <span2>Made using Clear New Tab</span2>
                         </form>
                     </div>
-                    <br>
                     <div class="defined2">
                         <h1 class="UpdatesHeading">Updates</h1>
                         <h2 class="h21">Version 1.0.9</h2>
                         <span class="span1">Clear New Tab Installed</span>
                         <h2 class="h21">Version 1.5.2</h2>
                         <span class="span1">Background Changed, .defined box added</span>
-                        <h2 class="h21">Version 2.4.9</h2>
-                        <span class="span1">Umbreon Search made (Current Version)</span>
                         <h2 class="h21">Version 2.4.9 (14/11/2023)</h2>
                         <span class="span1">Umbreon Search made</span>
-                        <h2 class="h21">Version 2.8.3 (Current Version)</h2>
+                        <h2 class="h21">Version 2.8.3 (17/11/2023)</h2>
                         <span class="span1">GitHub supported (a few problems exist e.g. Font Face cannot load)</span>
-                        <h2 class="h21">Version 2.8.3 (a) (17/11/2023)</h2>
-                        <span class="span1">Local Clear New Tab CSS and HTML modified with bug fixes (Not GitHub)</span>
+                        <h2 class="h21">Version 2.8.3 (a)</h2>
+                        <span class="span1">Local Clear New Tab CSS and HTML modified with bug fixes (Local Version)</span>
+                        <h2 class="h21">Version 2.9.2</h2>
+                        <span class="span1">Changed to Landscape search version</span>
+                        <h2 class="h21">Version 2.9.2 (a) (Current Version)</h2>
+                        <span class="span1">Changed to Landscape search version (Local Version)</span>
                     </div>
                 </div>
             </div>
@@ -52,11 +55,14 @@
                 backdrop-filter: blur(5px);
                 place-items: center;
                 color: white;
+                margin-top: 20px;
             }
+
             .search-box:focus {
                 box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
                 background: rgba(0, 0, 0, 0.2);
             }
+
             .defined {
                 margin-left: auto;
                 margin-right: auto;
@@ -76,6 +82,8 @@
                 border-radius: 20px;
                 padding: 70px;
                 text-align: center;
+                display: flex;
+                justify-content: space-between;
             }
             .defined2 {
                 margin-left: auto;
@@ -98,71 +106,94 @@
                 text-align: center;
                 margin-top: 250px;
             }
+
             .button {
                 display: block;
-                width: 400px;
-                background-color: transparent;
-                border: none;
-                color: white;
-                text-align: center;
+                width: 400px; /* or any custom width */
+                background-color: transparent; /* Transparent background */
+                border: none; /* No borders */
+                color: white; /* White text */
+                text-align: center; /* Centered text */
                 place-items: center;
                 font-size: 16px;
                 margin: 30px 2px;
-                cursor: pointer;
+                cursor: pointer; /* Mouse pointer on hover */
                 backdrop-filter: blur(5px);
                 border: none;
                 border-radius: 10px;
-                padding: 10px;
-                margin-left: auto;
+                padding: 10px;   /* Add these properties to center the button */
+                margin-left: auto; /* Align the button to the center of the parent element */
                 margin-right: auto;
-                position: relative;
+                position: relative; /* Position the button relative to the parent element */
                 margin-bottom: 20px;
             }
+
             .button:hover {
-                background-color: rgba(0, 0, 0, 0.1);
+                background-color: rgba(0, 0, 0, 0.1); /* Add a hover effect */
             }
+            
             .button:focus {
                 box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
                 background: rgba(0, 0, 0, 0.5);
             }
+
             h1 {
                 color: white;
                 height: 0px;
-                margin-bottom: 15px;
+                gap; 0px;
+                margin-bottom: 90px;
+                scale: 1.3;
             }
+
             span {
                 color: white;
                 height: 20px;
                 margin-top: 30px;
+                margin-bottom: 30px;
             }
+
+            
             span2 {
                 color: white;
                 height: 10px;
             }
+
             p {
                 color: white;
                 height: 0px;
                 gap: 0px;
                 margin-top: -1px;
             }
+
             .UpdatesHeading {
                 color: white;
-                height: 0px;
-                margin-bottom: 0px;
+                height: 5px;
+                gap; 0px;
+                margin-bottom: 20px;
             }
+
             .h21 {
                 color: white;
                 height: 0px;
                 gap: 0px;
-                margin-top: 0px;
-                margin-bottom: 0px;
+                margin-top: 10px;
+                margin-bottom: 10px;
             }
+
             .span1 {
                 color: white;
                 height: 0px;
-                margin-top: 0px;
-                margin-bottom: 0px;
-            }                            
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+
+            textdisp {
+                align-content: center;
+            }
+
+            divtext {
+                margin-bottom: 10px;
+            }                  
         </style>
         <script src="sandbox.js"></script>
     </body>
